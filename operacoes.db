@@ -1,0 +1,15 @@
+created(1669166354.5077875).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.3)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.4)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.5)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.3)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.3)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.7)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,1)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.3)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.3)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.5)).
+assert(operacao("ITSA4","COMPRA",10,8.8,22/11/2022,0.1,0.6)).
+assert(operacao("ITSA3","COMPRA",10,8.8,22/11/2022,0.1,0.6)).
+assert(operacao("MGLU4","COMPRA",10,100,"hoje",0.3,1000.3)).
+assert(operacao("MGLU4","COMPRA",10,100,date(2022,11,22),0.3,1000.3)).
