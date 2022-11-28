@@ -1,3 +1,6 @@
+% BRUNO DE OLIVEIRA JUCÁ - 201965013A
+% RÔMULO CHRISPIM DE MELLO - 201935038
+
 :- dynamic operacao/7.
 
 :- use_module(library(persistency)).

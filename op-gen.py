@@ -1,3 +1,6 @@
+# BRUNO DE OLIVEIRA JUCÁ - 201965013A
+# RÔMULO CHRISPIM DE MELLO - 201935038
+
 import random as rd
 import datetime as dt
 
